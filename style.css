@@ -1,0 +1,129 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color:#E4F9F5;
+}
+.pro{
+  text-decoration: underline;
+}
+.head{
+  background-color:#E4F9F5;
+  position: relative;
+    padding-top: 10 0px;
+
+}
+.contact-me{
+  width: 50% auto;
+  margin-bottom: 20px;
+}
+.footer-link{
+  background-color:#E4F9F5;
+}
+.discription{
+  color: #30e3cb;
+}
+hr{
+  color: grey;
+
+  border-style: none;
+    border-top-style: dotted;
+  border-width: 5px;
+  width: 10%;
+}
+.mid{
+  background-color: #E4F9F5;
+}
+.foot{
+  background-color: white;
+}
+.Hello{
+    margin-left: 20%;
+}
+.btn {width:50px;
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+
+
+}
+
+.profile{
+  width:50%;
+  border-radius: 100%;
+  margin-left: 20%
+}
+.gif{
+  height: 20%;
+  width: 20%;
+}
+ .skill-row{
+
+   width:50%;
+   margin: 100px auto 100px auto;
+   line-height: 2;
+   text-align: left;
+ }
+
+.myskill{
+  margin-top: 100px
+
+}
+.chillies{
+  border-radius: 100%;
+  width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.computer{
+border-radius: 100%;
+width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+h1
+{   font-size: 80px;
+    margin-top: 0;
+    font-family: 'sacramento',cursive;
+    color : #66BFBf;
+
+}
+h2{color:#66BFBf;
+  font-family: 'Montserrat',sans-serif;
+  font-weight: normal;
+  text-decoration: underline;
+}
+h3{ color: #11999E;
+  font-family: 'Montserrat',sans-serif;
+}
+.topcloud{
+position: absolute;
+right: 300px;
+top: 50px
+}
+.bottomcloud{
+  position:absolute;
+  left: 300px;
+  bottom: 300px;
+}
